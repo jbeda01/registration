@@ -1,1 +1,1 @@
-# registration
+A fine registration form.
